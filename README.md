@@ -1,4 +1,4 @@
-# My-Deep-Learning-Projects
+# DeepLearning.ai Course
 
 
 
